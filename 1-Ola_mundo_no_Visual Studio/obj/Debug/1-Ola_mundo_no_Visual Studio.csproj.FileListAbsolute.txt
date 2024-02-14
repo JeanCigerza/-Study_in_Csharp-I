@@ -1,0 +1,7 @@
+D:\C#\1-Ola_mundo_no_Visual Studio\bin\Debug\1-Ola_mundo_no_Visual Studio.exe.config
+D:\C#\1-Ola_mundo_no_Visual Studio\bin\Debug\1-Ola_mundo_no_Visual Studio.exe
+D:\C#\1-Ola_mundo_no_Visual Studio\bin\Debug\1-Ola_mundo_no_Visual Studio.pdb
+D:\C#\1-Ola_mundo_no_Visual Studio\obj\Debug\1-Ola_mundo_no_Visual Studio.csproj.AssemblyReference.cache
+D:\C#\1-Ola_mundo_no_Visual Studio\obj\Debug\1-Ola_mundo_no_Visual Studio.csproj.CoreCompileInputs.cache
+D:\C#\1-Ola_mundo_no_Visual Studio\obj\Debug\1-Ola_mundo_no_Visual Studio.exe
+D:\C#\1-Ola_mundo_no_Visual Studio\obj\Debug\1-Ola_mundo_no_Visual Studio.pdb
